@@ -1,0 +1,7 @@
+.env
+*.jpg
+*.png
+photo_ids.txt
+__pycache__/*
+photo_ids.*
+base.json
